@@ -148,3 +148,37 @@ Para una comunicación eficaz vamos a abordar los siguientes componentes:
 -  Los dispositivos y medios que se utilizan para hacer llegar un mensaje, son el hardware de la red, esta es la parte visible en dicha red usualmente,  que bien puede ser, una computadora, ya sea portátil o de mesa, y los dispositivos intermedios que las conectan.
 
 -  Los servicios y procesos son los programas de comunicación denominados software y se ejecutan en los dispositivos conectados a la red.
+
+
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+
+RED: El término red hace referencia a redes de información, las cuales se entienden como una vinculación física o inalámbrica entre diversos dispositivos con el fin de comunicarse y compartir datos y recursos entre sí.
+
+Las infraestructuras de red se pueden clasificar según diversos criterios, entre ellos:
+
+* El tamaño del área cubierta.
+* La cantidad de usuarios conectados.
+* La cantidad y tipos de servicios disponibles.
+
+LAN: Una red LAN  o red de área local cubre una única área geográfica limitada y provee servicios y aplicaciones a personas dentro de una estructura organizacional común, como una oficina, un edificio o un campus universitario.
+
+Una red LAN utiliza tecnologías como Ethernet para transmitir datos y compartir recursos, como impresoras o servidores de archivos, entre los dispositivos conectados.
+
+WAN: Una red WAN o red de área amplia cubre una área geográfica extensa como un país e incluso a nivel mundial.  Las redes WAN son utilizadas para conectar redes LAN separadas geográficamente. 
+
+Usualmente cuando una compañía o una organización tiene sucursales separadas por grandes distancias geográficas, es posible que deba utilizar un proveedor de servicio de telecomunicaciones (TSP) para interconectar las LAN en las distintas ubicaciones mediante una red WAN.
+
+INTERNETWORK: Es una malla global de redes interconectadas utilizando enrutadores y otros dispositivos de red. Las internetworks están compuestas por varias redes LAN y WAN interconectadas y se utilizan para compartir recursos entre múltiples ubicaciones. 
+
+Algunas de estas redes interconectadas pertenecen a grandes organizaciones públicas o privadas, como agencias gubernamentales o empresas industriales, y están reservadas para su uso exclusivo.
+
+La internetwork más conocida, ampliamente utilizada y a la que accede el público en general es Internet.
+
+INTERNET: El uso de una red LAN o WAN, arroja múltiples beneficios en aspectos como la colaboración y el trabajo en equipo, el acceso remoto, la comunicación, la seguridad y la reducción de costos, pero la mayoría de los usuarios necesitan comunicarse con un recurso u otra red, fuera de la organización local.
+
+Internet es la red global más grande y conocida del mundo, que conecta a miles de millones de usuarios y dispositivos en todo el planeta. Esta red se crea mediante la interconexión de redes que soportan los Proveedores de Servicios de Internet o ISP y para garantizar la comunicación efectiva a través de esta infraestructura diversa se requiere la aplicación de tecnologías y protocolos consistentes y reconocidos comúnmente, como también la cooperación de muchas agencias de administración de redes.
+
+
+
+
+
