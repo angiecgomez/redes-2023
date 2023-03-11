@@ -124,3 +124,16 @@ La filosofía relevante de calidad de servicio se deriva de la terminología de 
 Sin duda el aspecto más importante de todos, ofrecer la solución a un problema que pocos se hayan arriesgado a tocar y ofrecer beneficios que nadie más ofrece puede ser un gran impulso para una aplicación, especialmente cuando es una necesidad de un gran segmento de personas, acompañado de una buena implementación y de sencillez en el uso; pues no sirve ofrecer algo novedoso cuando es complicado de hacer o presenta muchos problemas.  
 
 Esto hará que una aplicación sume muchos puntos, pero para eso se deben también implementar algunas estrategias de posicionamiento,  así más usuarios podrán descubrirla y disfrutarla.
+
+
+10. ¿Por qué importa la calidad del servicio en una red de datos? 
+
+La calidad del servicio es un aspecto crucial en una red de datos porque garantiza que los diferentes tipos de tráfico de red reciban la prioridad adecuada y se manejen de manera efectiva en la red. La QoS es importante, ya que las redes deben proporcionar servicios seguros, predecibles, mensurables y, a veces, garantizados.
+
+* Rendimiento: las redes necesitan mecanismos para administrar el tráfico de redes. Debido a lo anterior, la priorización del tráfico es muy importante, ya que ayuda a garantizar que los servicios de mayor prioridad tengan un ancho de banda adecuado y reduzcan la latencia, lo que puede mejorar la experiencia del usuario.
+
+* Fiabilidad: La QoS ayuda a garantizar la fiabilidad de la red y reduce las interrupciones de la red, lo que garantiza una comunicación más confiable y efectiva.
+
+* Seguridad: La QoS también puede ayudar a garantizar la seguridad de la red. Los servicios críticos, como la comunicación de voz y video y la transferencia de datos sensibles, pueden ser priorizados para asegurar que se manejen de manera segura y confiable.
+
+* Control de costos: La QoS también puede ayudar a controlar los costos de la red. La priorización del tráfico ayuda a garantizar que los recursos de la red se utilicen de manera más eficiente y se reduzca la necesidad de ampliar la capacidad de la red.
