@@ -96,3 +96,15 @@ Elementos de la red:
 * Red convergente: una infraestructura de red que permite consolidar diferentes servicios y por ende transmitir múltiples tipos de tráfico como voz, vídeo y datos a través de una sola red. De modo que se elimina la necesidad de crear y mantener redes separadas.
 
 
+
+7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
+
+
+Tolerancia a fallas: La red tolerante a fallas es aquella que limita el impacto de una falla en el software o hardware y puede recuperarse de forma rápida cuando se produce esa falla. Estas dependen de enlaces entre el origen y el destinatario del mensaje. Ejemplo: Protocolo TCP.
+
+Escalabilidad: Es una red que puede expandirse rápidamente para así admitir nuevos usuarios y las aplicaciones, sin afectar el rendimiento del servicio que es enviado a los usuarios actuales. Ejemplo: Sistema de transacción en línea.
+
+Calidad de servicio: Se mide con la calidad de experimentar la misma presentación de audio y video en persona. Las redes de voz y video tradicionales están diseñadas para admitir un único tipo de transmisión y así  pueden producir un nivel decente de calidad. Ejemplo: Redes de telefonía.
+
+Seguridad: La necesidad de aumentar la seguridad en la arquitectura de la red se resalta debido a las diferentes áreas de comunicación que no eran atendidas por las redes de datos, todo esto va dando un buen resultado dando un gran esfuerzo a las áreas de investigación y desarrollo. Ejemplo: Protección firewall.
+
