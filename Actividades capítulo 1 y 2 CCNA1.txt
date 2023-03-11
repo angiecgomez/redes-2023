@@ -108,3 +108,10 @@ Calidad de servicio: Se mide con la calidad de experimentar la misma presentaci�
 
 Seguridad: La necesidad de aumentar la seguridad en la arquitectura de la red se resalta debido a las diferentes áreas de comunicación que no eran atendidas por las redes de datos, todo esto va dando un buen resultado dando un gran esfuerzo a las áreas de investigación y desarrollo. Ejemplo: Protección firewall.
 
+
+8. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+* Redes orientadas a la conexión: esta permite establecer una conexión entre dos dispositivos antes de que comience la transmisión de datos. De forma previa a la transmisión, la conexión pasa por un proceso de configuración donde se establecen parámetros como la velocidad de transmisión, el tamaño del paquete y la configuración de seguridad. Después de que se establece la conexión, los datos se transmiten entre los dispositivos y se asegura la integridad y la precisión de los datos. Una vez que se completa la transferencia de datos, se termina la conexión.
+
+* Redes no orientadas a la conexión: en esta red los dispositivos no establecen una conexión antes de la transmisión de datos. En cambio, los datos se transmiten como paquetes independientes, ya que un mensaje puede dividirse en múltiples bloques individuales que se envían directamente al dispositivo de destino sin establecer una conexión previa. Los bloques individuales contienen información de direccionamiento, estos indican tanto su punto de origen como su destino final. En este modelo, no se garantiza que los paquetes de datos lleguen al destino en el orden correcto o que se entreguen en absoluto.
+
