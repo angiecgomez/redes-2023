@@ -218,3 +218,38 @@ En el modelo OSI, la capa Acceso a la red y la capa Aplicación del modelo TCP/I
 En la capa Acceso a la red, la suite de protocolos TCP/IP no especifica cuáles protocolos utilizar cuando se transmite por un medio físico; sólo describe la transferencia desde la capa de Internet a los protocolos.
 
 
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+		
+A continuación, se describen las funciones de cada capa en los modelos de red TCP/IP y OSI:
+
+
+Modelo TCP/IP:
+
+Capa de Acceso a la Red: esta capa se encarga de transmitir los datos entre el dispositivo de origen y la red física.
+
+Capa de Internet: esta capa se encarga de la transmisión de datos a través de la red y del enrutamiento de los mismos a su destino.
+
+Capa de Transporte: esta capa proporciona una comunicación extremo a extremo confiable entre los dispositivos de origen y destino.
+
+Capa de Aplicación: esta capa se encarga de la interacción entre las aplicaciones y los usuarios, proporcionando servicios como correo electrónico, transferencia de archivos y navegación web.
+
+
+
+Modelo OSI:
+
+Capa Física: esta capa se encarga de la transmisión de bits a través del medio físico, y define las características eléctricas, mecánicas y de procedimiento para la transmisión de datos.
+
+Capa de Enlace de Datos: esta capa se encarga de la transmisión de datos de forma confiable y controla el acceso al medio físico.
+
+Capa de Red: esta capa se encarga del enrutamiento de los datos entre redes y proporciona servicios de control de congestión y de calidad de servicio.
+
+Capa de Transporte: esta capa proporciona una comunicación extremo a extremo confiable entre los dispositivos de origen y destino.
+
+Capa de Sesión: esta capa proporciona servicios de establecimiento, mantenimiento y finalización de sesiones entre aplicaciones.
+
+Capa de Presentación: esta capa se encarga de la representación y codificación de los datos en un formato que pueda ser entendido por las aplicaciones.
+
+Capa de Aplicación: esta capa se encarga de la interacción entre las aplicaciones y los usuarios, proporcionando servicios como correo electrónico, transferencia de archivos y navegación web.
+
+En resumen, el modelo TCP/IP tiene cuatro capas, mientras que el modelo OSI tiene siete capas, y aunque existen diferencias en los nombres y funciones de las capas, ambos modelos tienen como objetivo establecer una estructura estándar para la comunicación de datos en redes de computadoras.
+
