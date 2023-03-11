@@ -5,10 +5,10 @@ UNIVERSIDAD DEL CAUCA
 
 FECHA: 		08 DE MARZO DE 2023
 
-NOMBRE: 	LAURA MARCELA MENDEZ RENGIFO
-CÓDIGO SIMCA: 10461701074	
+NOMBRE: 	      LAURA MARCELA MENDEZ RENGIFO
+CÓDIGO SIMCA:  10461701074	
 
-NOMBRE: 	ANGIE CAROLINA GÓMEZ ACOSTA
+NOMBRE: 	      ANGIE CAROLINA GÓMEZ ACOSTA
 CÓDIGO SIMCA: 	104618021468
 
 
@@ -23,8 +23,8 @@ Preguntas de lectura: Capitulo 1
 
 Es bien sabido que las redes han generado un impacto considerable en la vida de las personas, principalmente lo que vendría siendo la comunicación entre una persona y otra, mientras que antes con la muy limitada disposición de esta tecnología, todo se basaba en verse en un sitio público y conversar, ahora todo es más sencillo con cosas como por ejemplo las videoconferencias, y todos estos medios, brindan más facilidades para diferentes cosas que suele hacer la gente.
 
-2. Listar las actividades cotidianas que realiza usted utilizando internet.
 
+2. Listar las actividades cotidianas que realiza usted utilizando internet.
 
 Internet me ha permitido ejecutar con frecuencia y de manera ágil actividades dentro de aspectos académicos, de entretenimiento, informativos, laborales, entre otros. Algunas de las actividades respectivamente son:
 
@@ -38,13 +38,37 @@ Internet me ha permitido ejecutar con frecuencia y de manera ágil actividades d
 
 - Buscar, leer y escuchar sobre noticias nacionales e internacionales.
 
- 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
+
+3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 
 Los que más se ha utilizado para comunicarse con alguien sería:
 
 - Facebook
--  Messenger(que va de la mano con facebook)
--  Whatsapp
-- gmail
--  Instagram
--
+- Messenger (que va de la mano con facebook)
+- Whatsapp
+- Gmail
+- Instagram
+
+
+4. Describir los factores que afectan la calidad de las comunicaciones.
+
+
+Los factores que pueden llegar a afectar la calidad de las comunicaciones se clasifican en externos e internos. Dentro de los factores externos se encuentran:
+
+- La calidad de la ruta entre el emisor y el receptor, ya que la transmisión de la información se lleva a cabo mediante canales soportados por medios físicos como cables, fibra óptica, aire, entre otros. De modo que si la calidad del canal es mala puede llegar a presentarse distorsión, retraso y hasta pérdida de la información o en el peor de los casos la interrupción total de la comunicación. También pueden presentarse interferencias electromagnéticas y otras producidas por factores ambientales.
+
+- La cantidad de veces que el mensaje tiene que cambiar de forma. Esto puede llegar a presentarse cada vez que un mensaje debe transmitirse de un medio o formato a otro, ya que ocasiona la posibilidad de que se pierda información o que se produzcan errores que afecten su calidad y comprensión.
+
+- La cantidad de veces que el mensaje tiene que ser redireccionado o redirigido, puesto que en una red de computadores cada vez que los datos se enrutan a través de diferentes nodos de la red, existe la posibilidad de que se produzcan retrasos, errores o pérdidas de información.
+
+- La cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación. Esto debido a que cuando hay una gran cantidad de mensajes que se transmiten al mismo tiempo en la red, puede haber congestión y competencia por el ancho de banda disponible, lo que puede afectar la velocidad y la calidad de las comunicaciones que finalmente se traduce en retrasos o pérdida de mensajes.
+
+- La cantidad de tiempo asignado para una comunicación exitosa.
+
+En cuanto a los factores internos que pueden llegar a afectar la comunicación exitosa en la red, tenemos:
+
+- El tamaño del mensaje, ya que estos llegan a requerir más ancho de banda y pueden tardar más en transmitirse, lo que puede afectar la velocidad y calidad de la comunicación. 
+
+- La complejidad del mensaje. Un mensaje complejo puede ser difícil de entender y puede requerir más tiempo y esfuerzo para ser procesado.
+
+- La importancia del mensaje. Esto hace referencia a que los mensajes importantes pueden requerir más atención y cuidado durante la transmisión, puesto que un mensaje con baja importancia o prioridad puede perderse si la red está sobrecargada.
