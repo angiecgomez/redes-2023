@@ -209,3 +209,12 @@ Trama: PDU de la capa de acceso a la red.
 Bits: Una PDU que se utiliza cuando se transmiten físicamente datos a través de un medio.
 
 
+8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+
+Los protocolos que forman la suite de protocolos TCP/IP pueden describirse en términos del modelo de referencia OSI.
+
+En el modelo OSI, la capa Acceso a la red y la capa Aplicación del modelo TCP/IP están subdivididas para describir funciones discretas que deben producirse en estas capas.
+
+En la capa Acceso a la red, la suite de protocolos TCP/IP no especifica cuáles protocolos utilizar cuando se transmite por un medio físico; sólo describe la transferencia desde la capa de Internet a los protocolos.
+
+
