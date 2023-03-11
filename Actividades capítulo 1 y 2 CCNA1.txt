@@ -72,3 +72,18 @@ En cuanto a los factores internos que pueden llegar a afectar la comunicación e
 - La complejidad del mensaje. Un mensaje complejo puede ser difícil de entender y puede requerir más tiempo y esfuerzo para ser procesado.
 
 - La importancia del mensaje. Esto hace referencia a que los mensajes importantes pueden requerir más atención y cuidado durante la transmisión, puesto que un mensaje con baja importancia o prioridad puede perderse si la red está sobrecargada.
+
+
+5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+
+Elementos de la red:
+
+- Reglas: Estos son los protocolos que se deben seguir que describen con detalle la forma de enviar un mensaje, cómo se direccionan y la interpretación de su destino final.
+
+- Medio: Este se puede considerar como la red la cual ayuda a enviar el mensaje a su destino, puede ser tanto una red por cable como también una inalámbrica.
+
+- Mensajes: Estos son quienes se convierten en un formato, los cuales se transmiten en una red, pero estos deben ser convertidos en bits antes de poder ser enviados a su destinatario.
+
+- Dispositivos: Estos son quienes hacen que sea posible, que los mensajes los cuales queremos transmitir sean direccionados a través de cables, ondas etc, como puede ser la computadora.
+
+
