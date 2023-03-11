@@ -115,3 +115,12 @@ Seguridad: La necesidad de aumentar la seguridad en la arquitectura de la red se
 
 * Redes no orientadas a la conexión: en esta red los dispositivos no establecen una conexión antes de la transmisión de datos. En cambio, los datos se transmiten como paquetes independientes, ya que un mensaje puede dividirse en múltiples bloques individuales que se envían directamente al dispositivo de destino sin establecer una conexión previa. Los bloques individuales contienen información de direccionamiento, estos indican tanto su punto de origen como su destino final. En este modelo, no se garantiza que los paquetes de datos lleguen al destino en el orden correcto o que se entreguen en absoluto.
 
+
+9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+
+
+La filosofía relevante de calidad de servicio se deriva de la terminología de administración de ancho de banda. Inicialmente había dos grandes campos para la administración del ancho de banda, que son clase de servicio, sus siglas (COS) y calidad de servicio, sus siglas (QoS). Donde COS dividía el tráfico en unas cuantas categorías de servicio y QoS permitía la negociación de servicios de red dinámicamente a través de la reserva de ancho de banda.
+
+Sin duda el aspecto más importante de todos, ofrecer la solución a un problema que pocos se hayan arriesgado a tocar y ofrecer beneficios que nadie más ofrece puede ser un gran impulso para una aplicación, especialmente cuando es una necesidad de un gran segmento de personas, acompañado de una buena implementación y de sencillez en el uso; pues no sirve ofrecer algo novedoso cuando es complicado de hacer o presenta muchos problemas.  
+
+Esto hará que una aplicación sume muchos puntos, pero para eso se deben también implementar algunas estrategias de posicionamiento,  así más usuarios podrán descubrirla y disfrutarla.
