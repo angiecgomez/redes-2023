@@ -1,0 +1,24 @@
+﻿
+Actividades capítulo 1 y 2 CCNA1
+
+UNIVERSIDAD DEL CAUCA
+
+FECHA: 		08 DE MARZO DE 2023
+
+NOMBRE: 	LAURA MARCELA MENDEZ RENGIFO
+CÓDIGO SIMCA: 10461701074	
+
+NOMBRE: 	ANGIE CAROLINA GÓMEZ ACOSTA
+CÓDIGO SIMCA: 	104618021468
+
+
+1. Leer los capítulos 1 y 2 del curso de Cisco
+2. Responder las preguntas de la lectura y en enviarlas en PDF.
+
+
+Preguntas de lectura: Capitulo 1
+
+
+1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
+
+Es bien sabido que las redes han generado un impacto considerable en la vida de las personas, principalmente lo que vendría siendo la comunicación entre una persona y otra, mientras que antes con la muy limitada disposición de esta tecnología, todo se basaba en verse en un sitio público y conversar, ahora todo es más sencillo con cosas como por ejemplo las videoconferencias, y todos estos medios, brindan más facilidades para diferentes cosas que suele hacer la gente. 
