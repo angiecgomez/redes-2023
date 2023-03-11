@@ -160,28 +160,35 @@ Las infraestructuras de red se pueden clasificar según diversos criterios, entr
 * La cantidad de usuarios conectados.
 * La cantidad y tipos de servicios disponibles.
 
-LAN: Una red LAN  o red de área local cubre una única área geográfica limitada y provee servicios y aplicaciones a personas dentro de una estructura organizacional común, como una oficina, un edificio o un campus universitario.
+LAN: Una red LAN  o red de área local cubre una única área geográfica limitada y provee servicios y aplicaciones a personas dentro de una estructura organizacional común, como una oficina, un edificio o un campus universitario. Una red LAN utiliza tecnologías como Ethernet para transmitir datos y compartir recursos, como impresoras o servidores de archivos, entre los dispositivos conectados.
 
-Una red LAN utiliza tecnologías como Ethernet para transmitir datos y compartir recursos, como impresoras o servidores de archivos, entre los dispositivos conectados.
 
-WAN: Una red WAN o red de área amplia cubre una área geográfica extensa como un país e incluso a nivel mundial.  Las redes WAN son utilizadas para conectar redes LAN separadas geográficamente. 
+WAN: Una red WAN o red de área amplia cubre una área geográfica extensa como un país e incluso a nivel mundial.  Las redes WAN son utilizadas para conectar redes LAN separadas geográficamente. Usualmente cuando una compañía o una organización tiene sucursales separadas por grandes distancias geográficas, es posible que deba utilizar un proveedor de servicio de telecomunicaciones (TSP) para interconectar las LAN en las distintas ubicaciones mediante una red WAN. Las tecnologías comunes utilizadas en las WAN incluyen líneas alquiladas, redes privadas virtuales (VPN) y servicios de Internet.
 
-Usualmente cuando una compañía o una organización tiene sucursales separadas por grandes distancias geográficas, es posible que deba utilizar un proveedor de servicio de telecomunicaciones (TSP) para interconectar las LAN en las distintas ubicaciones mediante una red WAN.
 
-INTERNETWORK: Es una malla global de redes interconectadas utilizando enrutadores y otros dispositivos de red. Las internetworks están compuestas por varias redes LAN y WAN interconectadas y se utilizan para compartir recursos entre múltiples ubicaciones. 
+INTERNETWORK: Es una malla global de redes interconectadas utilizando enrutadores y otros dispositivos de red. Las internetworks están compuestas por varias redes LAN y WAN interconectadas y se utilizan para compartir recursos entre múltiples ubicaciones. Algunas de estas redes interconectadas pertenecen a grandes organizaciones públicas o privadas, como agencias gubernamentales o empresas industriales, y están reservadas para su uso exclusivo. La internetwork más conocida, ampliamente utilizada y a la que accede el público en general es Internet.
 
-Algunas de estas redes interconectadas pertenecen a grandes organizaciones públicas o privadas, como agencias gubernamentales o empresas industriales, y están reservadas para su uso exclusivo.
 
-La internetwork más conocida, ampliamente utilizada y a la que accede el público en general es Internet.
-
-INTERNET: El uso de una red LAN o WAN, arroja múltiples beneficios en aspectos como la colaboración y el trabajo en equipo, el acceso remoto, la comunicación, la seguridad y la reducción de costos, pero la mayoría de los usuarios necesitan comunicarse con un recurso u otra red, fuera de la organización local.
-
-Internet es la red global más grande y conocida del mundo, que conecta a miles de millones de usuarios y dispositivos en todo el planeta. Esta red se crea mediante la interconexión de redes que soportan los Proveedores de Servicios de Internet o ISP y para garantizar la comunicación efectiva a través de esta infraestructura diversa se requiere la aplicación de tecnologías y protocolos consistentes y reconocidos comúnmente, como también la cooperación de muchas agencias de administración de redes.
+INTERNET: El uso de una red LAN o WAN, arroja múltiples beneficios en aspectos como la colaboración y el trabajo en equipo, el acceso remoto, la comunicación, la seguridad y la reducción de costos, pero la mayoría de los usuarios necesitan comunicarse con un recurso u otra red, fuera de la organización local. Internet es la red global más grande y conocida del mundo, que conecta a miles de millones de usuarios y dispositivos en todo el planeta. Esta red se crea mediante la interconexión de redes que soportan los Proveedores de Servicios de Internet o ISP y para garantizar la comunicación efectiva a través de esta infraestructura diversa se requiere la aplicación de tecnologías y protocolos consistentes y reconocidos comúnmente, como también la cooperación de muchas agencias de administración de redes.
 
 
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 
 Internetwork es una malla de redes interconectadas y cubre las necesidades de comunicación humana y pueden pertenecer a entidades públicas o privadas e internet es una internetwork pública a la que puede acceder el público en general. 
+
+
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+
+Interfaz de red(NIC): Proporciona la conexión física con la red en una computadora personal u otro dispositivo host.
+
+Puerto físico: conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red.
+
+Interfaz de red: puertos especializados de un dispositivo de internetworking que se conecta con redes individuales.
+
+
+
+
+
 
 
 
