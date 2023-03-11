@@ -87,3 +87,12 @@ Elementos de la red:
 - Dispositivos: Estos son quienes hacen que sea posible, que los mensajes los cuales queremos transmitir sean direccionados a través de cables, ondas etc, como puede ser la computadora.
 
 
+6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
+* Datos: son unidades de información que viajan de un dispositivo a otro a través de la red. Los datos pueden ser de diferentes tipos, incluyendo texto, imágenes, audio, video, entre otros. Estos datos tienen que ser convertidos a bits, señales digitales codificadas en binario para poder ser transmitidos a través de la red y una vez ahí se les da el nombre de mensajes.
+
+* Red de Datos: es toda una infraestructura de comunicación que permite la transferencia de datos entre dispositivos en una red. Las redes de datos poseen protocolos para regular el envío, la redirección, la recepción  e interpretación de los mensajes.
+
+* Red convergente: una infraestructura de red que permite consolidar diferentes servicios y por ende transmitir múltiples tipos de tráfico como voz, vídeo y datos a través de una sola red. De modo que se elimina la necesidad de crear y mantener redes separadas.
+
+
