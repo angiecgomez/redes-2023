@@ -137,3 +137,14 @@ La calidad del servicio es un aspecto crucial en una red de datos porque garanti
 * Seguridad: La QoS también puede ayudar a garantizar la seguridad de la red. Los servicios críticos, como la comunicación de voz y video y la transferencia de datos sensibles, pueden ser priorizados para asegurar que se manejen de manera segura y confiable.
 
 * Control de costos: La QoS también puede ayudar a controlar los costos de la red. La priorización del tráfico ayuda a garantizar que los recursos de la red se utilicen de manera más eficiente y se reduzca la necesidad de ampliar la capacidad de la red.
+
+
+Preguntas de lectura: Capítulo 2
+
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+
+Para una comunicación eficaz vamos a abordar los siguientes componentes: 
+
+-  Los dispositivos y medios que se utilizan para hacer llegar un mensaje, son el hardware de la red, esta es la parte visible en dicha red usualmente,  que bien puede ser, una computadora, ya sea portátil o de mesa, y los dispositivos intermedios que las conectan.
+
+-  Los servicios y procesos son los programas de comunicación denominados software y se ejecutan en los dispositivos conectados a la red.
