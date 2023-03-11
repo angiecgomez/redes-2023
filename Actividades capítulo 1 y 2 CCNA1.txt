@@ -179,6 +179,11 @@ INTERNET: El uso de una red LAN o WAN, arroja múltiples beneficios en aspectos 
 Internet es la red global más grande y conocida del mundo, que conecta a miles de millones de usuarios y dispositivos en todo el planeta. Esta red se crea mediante la interconexión de redes que soportan los Proveedores de Servicios de Internet o ISP y para garantizar la comunicación efectiva a través de esta infraestructura diversa se requiere la aplicación de tecnologías y protocolos consistentes y reconocidos comúnmente, como también la cooperación de muchas agencias de administración de redes.
 
 
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+Internetwork es una malla de redes interconectadas y cubre las necesidades de comunicación humana y pueden pertenecer a entidades públicas o privadas e internet es una internetwork pública a la que puede acceder el público en general. 
+
+
 
 
 
