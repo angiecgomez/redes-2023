@@ -191,3 +191,9 @@ Interfaz de red: puertos especializados de un dispositivo de internetworking que
 En el contexto de redes de comunicaciones, un protocolo se dice que es independiente de la tecnología porque generalmente no describe cómo cumplir una función en particular. En otras palabras, un protocolo describe solamente qué funciones se requieren de una regla de comunicación en particular, pero no especifica cómo realizarlas. Esto significa que la implementación de un protocolo en particular puede ser independiente de la tecnología que se utilice, lo que permite que una computadora y otros dispositivos puedan acceder a una página web almacenada en cualquier tipo de servidor web que utilice cualquier tipo de sistema operativo desde cualquier lugar de Internet.
 
 
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+
+La unidad de datos de protocolo (PDU) es la forma en que una sección de datos se presentan en cualquier capa. Durante la encapsulación, cada capa sigue el protocolo correspondiente al encapsular las PDU que recibió de la capa inferior. A medida que la PDU se desplaza por cada etapa del proceso, se le asigna un nombre distinto para reflejar su nueva forma. Aunque no hay una convención universal para nombrar las PDU, este curso las nombra según los protocolos de la suite TCP/IP.
+
+
+
