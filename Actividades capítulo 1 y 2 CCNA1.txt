@@ -186,11 +186,8 @@ Puerto físico: conector o toma en un dispositivo de red en el cual el medio se 
 Interfaz de red: puertos especializados de un dispositivo de internetworking que se conecta con redes individuales.
 
 
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 
-
-
-
-
-
+En el contexto de redes de comunicaciones, un protocolo se dice que es independiente de la tecnología porque generalmente no describe cómo cumplir una función en particular. En otras palabras, un protocolo describe solamente qué funciones se requieren de una regla de comunicación en particular, pero no especifica cómo realizarlas. Esto significa que la implementación de un protocolo en particular puede ser independiente de la tecnología que se utilice, lo que permite que una computadora y otros dispositivos puedan acceder a una página web almacenada en cualquier tipo de servidor web que utilice cualquier tipo de sistema operativo desde cualquier lugar de Internet.
 
 
