@@ -196,4 +196,16 @@ En el contexto de redes de comunicaciones, un protocolo se dice que es independi
 La unidad de datos de protocolo (PDU) es la forma en que una sección de datos se presentan en cualquier capa. Durante la encapsulación, cada capa sigue el protocolo correspondiente al encapsular las PDU que recibió de la capa inferior. A medida que la PDU se desplaza por cada etapa del proceso, se le asigna un nombre distinto para reflejar su nueva forma. Aunque no hay una convención universal para nombrar las PDU, este curso las nombra según los protocolos de la suite TCP/IP.
 
 
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+Datos: El término general para las PDU que se utilizan en la capa de aplicación.
+
+Segmento: PDU de la capa de transporte.
+
+Paquete: PDU de la capa de INTERNETWORK.
+
+Trama: PDU de la capa de acceso a la red.
+
+Bits: Una PDU que se utiliza cuando se transmiten físicamente datos a través de un medio.
+
 
